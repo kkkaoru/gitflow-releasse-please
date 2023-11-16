@@ -21,4 +21,4 @@ jobs:
         with:
           release-type: node
           package-name: use-release-please
-          default-branch: main
+          default-branch: release
